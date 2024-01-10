@@ -1,4 +1,4 @@
-### すでに入っているパッケージは[こちら]([https://github.com/jupyter/docker-stacks/wiki/aarch64-datascience-notebook-bada6c21e945](https://hub.docker.com/layers/rocker/rstudio/4.2.3/images/sha256-c25f429d9ea1592d08fb2a8ca0724b4c02d2ae60f14b405b080fc2c8bef31ce8?context=explore))
+### すでに入っているパッケージは[こちら]([https://github.com/jupyter/docker-stacks/wiki/aarch64-datascience-notebook-bada6c21e945](https://hub.docker.com/layers/rocker/rstudio/4.2.3/images/sha256-c25f429d9ea1592d08fb2a8ca0724b4c02d2ae60f14b405b080fc2c8bef31ce8?context=explore)])
 R_VERSION=4.2.3
 
 ## dockerの立ち上げ方  
